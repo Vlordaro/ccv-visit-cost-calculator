@@ -27,7 +27,6 @@ Automatizar a definição de custo de visitas considerando regras de negócio:
 
 A função principal é:
 
-```javascript
 CCV(data, row)
 Ela recebe dois parâmetros:
 
