@@ -63,12 +63,19 @@ const CUSTO_FIM_DE_SEMANA = 1385;
 Feriados nacionais fixos (formato MM-DD):
 
 01-01 (Ano Novo)
+
 04-21 (Tiradentes)
+
 05-01 (Dia do Trabalho)
+
 09-07 (Independência do Brasil)
+
 10-12 (Nossa Senhora Aparecida)
+
 11-02 (Finados)
+
 11-15 (Proclamação da República)
+
 12-25 (Natal)
 ⚠️ Feriados móveis (Carnaval, Páscoa etc.) não estão incluídos.
 
